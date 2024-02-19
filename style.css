@@ -1,0 +1,53 @@
+header {
+    background-color: #9AD0C2;
+    border-radius: 15px;
+}
+
+header ul {
+    list-style: none; /* Bu satır eklenmiştir */
+    padding: 0; /* Bu satır da önerilen bir ek */
+}
+
+header a {
+    text-align: center;
+    pad: auto;
+    padding-left: 40px;
+}
+
+main {
+    background-color: thistle;
+    border-radius: 15px;
+    text-align: center;
+}
+main h1 {
+    font-size: 45px;
+    color: white;
+    background-color: rgb(116, 111, 116);
+    border-radius: 20px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+main h2 {
+    color white;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.Animalbox img {
+    width: 300px;
+    margin: 0 auto;
+}
+ footer  {
+    background-color: #201658;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+
+ }
+ footer ul {
+    list-style: none;
+ }
